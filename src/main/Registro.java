@@ -114,7 +114,7 @@ public class Registro {
     private static void listarAlumno() {
         for(int i = 0; i < cont; i++){
             System.out.println("----------------------");
-            System.out.println("\n\n\n--ALUMNOS--");
+            System.out.println("\n\n\n-- LISTA ALUMNOS--");
             System.out.println("----------------------");
             System.out.println(alumnos[i].toString());
         }
