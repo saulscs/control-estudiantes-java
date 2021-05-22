@@ -69,6 +69,8 @@ public class Registro {
         System.out.println("--Datos del Alumno");
         System.out.println("___________________");
 
+        System.out.print("\nINGRESA TU NOMBRE\n");
+
         System.out.print("Nombre: ");
         nombre = Leer.dato();
 
